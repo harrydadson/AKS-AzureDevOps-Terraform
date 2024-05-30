@@ -1,0 +1,2 @@
+    Ingress is a K*s resource that let's us configure an HTTP Load Balancer
+for applications running on K*s, with advanced capabilities at HTTP Layer.
